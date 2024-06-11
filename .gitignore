@@ -1,0 +1,104 @@
+# Binaries for programs and plugins
+*.exe
+*.exe.config
+*.dll
+*.so
+*.dylib
+*.pdb
+
+# Test binary, built with `dotnet test` or `xunit`
+*.TestAdapter.dll
+*.VisualStudio.TestPlatform.TestHost.exe
+
+# Code coverage
+*.coverage
+*.coveragexml
+
+# IDE - Visual Studio Code
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.servicehub
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.tlog
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.dmp
+*.mdmp
+*.cache
+*.csproj.user
+*.vbproj.user
+*.sln.docstates
+
+# IDE - Visual Studio
+.vs/
+*.opendb
+*.unsuccessfulbuild
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.userosscache
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Tt]est[Rr]esults/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# BenchmarkDotNet Artifacts
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.cache
+*.bak
+*.swp
+*.tmp
